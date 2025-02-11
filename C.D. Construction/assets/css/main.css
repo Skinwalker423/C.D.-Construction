@@ -2108,7 +2108,7 @@ input, select, textarea {
 	#top {
 		padding: 10em 0 10em 0;
 		text-align: left;
-		background-image: url('../../images/header.jpeg');
+		background-image: url('/images/header.jpeg');
 		height: 75vh;
 	}
 
